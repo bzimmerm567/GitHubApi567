@@ -1,0 +1,302 @@
+[
+  {
+    "sha": "d7268ac3e843f3fe0eddf65cfa719cd9bac25f58",
+    "commit": {
+      "author": {
+        "name": "Blake Zimmerman",
+        "email": "blake.zimmerman@icloud.com",
+        "date": "2018-01-30T22:26:18Z"
+      },
+      "committer": {
+        "name": "Blake Zimmerman",
+        "email": "blake.zimmerman@icloud.com",
+        "date": "2018-01-30T22:26:18Z"
+      },
+      "message": "Add build status to README",
+      "tree": {
+        "sha": "8020d2da91710c66acbb075b1aa93b8f43d1c4c3",
+        "url": "https://api.github.com/repos/bzimmerm567/Triangle567/git/trees/8020d2da91710c66acbb075b1aa93b8f43d1c4c3"
+      },
+      "url": "https://api.github.com/repos/bzimmerm567/Triangle567/git/commits/d7268ac3e843f3fe0eddf65cfa719cd9bac25f58",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/bzimmerm567/Triangle567/commits/d7268ac3e843f3fe0eddf65cfa719cd9bac25f58",
+    "html_url": "https://github.com/bzimmerm567/Triangle567/commit/d7268ac3e843f3fe0eddf65cfa719cd9bac25f58",
+    "comments_url": "https://api.github.com/repos/bzimmerm567/Triangle567/commits/d7268ac3e843f3fe0eddf65cfa719cd9bac25f58/comments",
+    "author": {
+      "login": "blakezimmerman",
+      "id": 25761639,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/25761639?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/blakezimmerman",
+      "html_url": "https://github.com/blakezimmerman",
+      "followers_url": "https://api.github.com/users/blakezimmerman/followers",
+      "following_url": "https://api.github.com/users/blakezimmerman/following{/other_user}",
+      "gists_url": "https://api.github.com/users/blakezimmerman/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/blakezimmerman/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/blakezimmerman/subscriptions",
+      "organizations_url": "https://api.github.com/users/blakezimmerman/orgs",
+      "repos_url": "https://api.github.com/users/blakezimmerman/repos",
+      "events_url": "https://api.github.com/users/blakezimmerman/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/blakezimmerman/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "blakezimmerman",
+      "id": 25761639,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/25761639?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/blakezimmerman",
+      "html_url": "https://github.com/blakezimmerman",
+      "followers_url": "https://api.github.com/users/blakezimmerman/followers",
+      "following_url": "https://api.github.com/users/blakezimmerman/following{/other_user}",
+      "gists_url": "https://api.github.com/users/blakezimmerman/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/blakezimmerman/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/blakezimmerman/subscriptions",
+      "organizations_url": "https://api.github.com/users/blakezimmerman/orgs",
+      "repos_url": "https://api.github.com/users/blakezimmerman/repos",
+      "events_url": "https://api.github.com/users/blakezimmerman/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/blakezimmerman/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c64ccdbf2d683cee30dfc09b7b16f07146f216e3",
+        "url": "https://api.github.com/repos/bzimmerm567/Triangle567/commits/c64ccdbf2d683cee30dfc09b7b16f07146f216e3",
+        "html_url": "https://github.com/bzimmerm567/Triangle567/commit/c64ccdbf2d683cee30dfc09b7b16f07146f216e3"
+      }
+    ]
+  },
+  {
+    "sha": "c64ccdbf2d683cee30dfc09b7b16f07146f216e3",
+    "commit": {
+      "author": {
+        "name": "Blake Zimmerman",
+        "email": "blake.zimmerman@icloud.com",
+        "date": "2018-01-30T22:24:47Z"
+      },
+      "committer": {
+        "name": "Blake Zimmerman",
+        "email": "blake.zimmerman@icloud.com",
+        "date": "2018-01-30T22:24:47Z"
+      },
+      "message": "add .travis.yml",
+      "tree": {
+        "sha": "c91984c96459d64224e7fc23e936a9bbedd258a9",
+        "url": "https://api.github.com/repos/bzimmerm567/Triangle567/git/trees/c91984c96459d64224e7fc23e936a9bbedd258a9"
+      },
+      "url": "https://api.github.com/repos/bzimmerm567/Triangle567/git/commits/c64ccdbf2d683cee30dfc09b7b16f07146f216e3",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/bzimmerm567/Triangle567/commits/c64ccdbf2d683cee30dfc09b7b16f07146f216e3",
+    "html_url": "https://github.com/bzimmerm567/Triangle567/commit/c64ccdbf2d683cee30dfc09b7b16f07146f216e3",
+    "comments_url": "https://api.github.com/repos/bzimmerm567/Triangle567/commits/c64ccdbf2d683cee30dfc09b7b16f07146f216e3/comments",
+    "author": {
+      "login": "blakezimmerman",
+      "id": 25761639,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/25761639?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/blakezimmerman",
+      "html_url": "https://github.com/blakezimmerman",
+      "followers_url": "https://api.github.com/users/blakezimmerman/followers",
+      "following_url": "https://api.github.com/users/blakezimmerman/following{/other_user}",
+      "gists_url": "https://api.github.com/users/blakezimmerman/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/blakezimmerman/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/blakezimmerman/subscriptions",
+      "organizations_url": "https://api.github.com/users/blakezimmerman/orgs",
+      "repos_url": "https://api.github.com/users/blakezimmerman/repos",
+      "events_url": "https://api.github.com/users/blakezimmerman/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/blakezimmerman/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "blakezimmerman",
+      "id": 25761639,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/25761639?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/blakezimmerman",
+      "html_url": "https://github.com/blakezimmerman",
+      "followers_url": "https://api.github.com/users/blakezimmerman/followers",
+      "following_url": "https://api.github.com/users/blakezimmerman/following{/other_user}",
+      "gists_url": "https://api.github.com/users/blakezimmerman/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/blakezimmerman/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/blakezimmerman/subscriptions",
+      "organizations_url": "https://api.github.com/users/blakezimmerman/orgs",
+      "repos_url": "https://api.github.com/users/blakezimmerman/repos",
+      "events_url": "https://api.github.com/users/blakezimmerman/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/blakezimmerman/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "6d8391765bb67e47adfaff9991127ff449289523",
+        "url": "https://api.github.com/repos/bzimmerm567/Triangle567/commits/6d8391765bb67e47adfaff9991127ff449289523",
+        "html_url": "https://github.com/bzimmerm567/Triangle567/commit/6d8391765bb67e47adfaff9991127ff449289523"
+      }
+    ]
+  },
+  {
+    "sha": "6d8391765bb67e47adfaff9991127ff449289523",
+    "commit": {
+      "author": {
+        "name": "Blake Zimmerman",
+        "email": "blake.zimmerman@icloud.com",
+        "date": "2018-01-30T22:14:01Z"
+      },
+      "committer": {
+        "name": "Blake Zimmerman",
+        "email": "blake.zimmerman@icloud.com",
+        "date": "2018-01-30T22:14:01Z"
+      },
+      "message": "add triangle code",
+      "tree": {
+        "sha": "7728f5e46ee94836ceee1a5f3af374198ab66e8c",
+        "url": "https://api.github.com/repos/bzimmerm567/Triangle567/git/trees/7728f5e46ee94836ceee1a5f3af374198ab66e8c"
+      },
+      "url": "https://api.github.com/repos/bzimmerm567/Triangle567/git/commits/6d8391765bb67e47adfaff9991127ff449289523",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/bzimmerm567/Triangle567/commits/6d8391765bb67e47adfaff9991127ff449289523",
+    "html_url": "https://github.com/bzimmerm567/Triangle567/commit/6d8391765bb67e47adfaff9991127ff449289523",
+    "comments_url": "https://api.github.com/repos/bzimmerm567/Triangle567/commits/6d8391765bb67e47adfaff9991127ff449289523/comments",
+    "author": {
+      "login": "blakezimmerman",
+      "id": 25761639,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/25761639?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/blakezimmerman",
+      "html_url": "https://github.com/blakezimmerman",
+      "followers_url": "https://api.github.com/users/blakezimmerman/followers",
+      "following_url": "https://api.github.com/users/blakezimmerman/following{/other_user}",
+      "gists_url": "https://api.github.com/users/blakezimmerman/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/blakezimmerman/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/blakezimmerman/subscriptions",
+      "organizations_url": "https://api.github.com/users/blakezimmerman/orgs",
+      "repos_url": "https://api.github.com/users/blakezimmerman/repos",
+      "events_url": "https://api.github.com/users/blakezimmerman/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/blakezimmerman/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "blakezimmerman",
+      "id": 25761639,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/25761639?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/blakezimmerman",
+      "html_url": "https://github.com/blakezimmerman",
+      "followers_url": "https://api.github.com/users/blakezimmerman/followers",
+      "following_url": "https://api.github.com/users/blakezimmerman/following{/other_user}",
+      "gists_url": "https://api.github.com/users/blakezimmerman/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/blakezimmerman/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/blakezimmerman/subscriptions",
+      "organizations_url": "https://api.github.com/users/blakezimmerman/orgs",
+      "repos_url": "https://api.github.com/users/blakezimmerman/repos",
+      "events_url": "https://api.github.com/users/blakezimmerman/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/blakezimmerman/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f6831d75a5858e74e6792e81344a1b4be13f2440",
+        "url": "https://api.github.com/repos/bzimmerm567/Triangle567/commits/f6831d75a5858e74e6792e81344a1b4be13f2440",
+        "html_url": "https://github.com/bzimmerm567/Triangle567/commit/f6831d75a5858e74e6792e81344a1b4be13f2440"
+      }
+    ]
+  },
+  {
+    "sha": "f6831d75a5858e74e6792e81344a1b4be13f2440",
+    "commit": {
+      "author": {
+        "name": "bzimmerm567",
+        "email": "35977174+bzimmerm567@users.noreply.github.com",
+        "date": "2018-01-30T22:09:32Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2018-01-30T22:09:32Z"
+      },
+      "message": "Initial commit",
+      "tree": {
+        "sha": "5ed70bc19b86d2c8cc43e528d55359bdde53816c",
+        "url": "https://api.github.com/repos/bzimmerm567/Triangle567/git/trees/5ed70bc19b86d2c8cc43e528d55359bdde53816c"
+      },
+      "url": "https://api.github.com/repos/bzimmerm567/Triangle567/git/commits/f6831d75a5858e74e6792e81344a1b4be13f2440",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJacO0cCRBK7hj4Ov3rIwAAdHIIAKCBC29zyVKyN93xq1Lv2mnr\ntpw2hnhEw2mJ3qA3u2qnGRQnAneKDCrnoY2Yl8AJXmA5sxfjOGRzn08ueyoboQK7\nfaKe4XUrLw/Ftl360P2O4ryy6GNBsMYdFEIvj973ZPhpkRFWqKiN7FUMpR62NUAN\nngxG7XoOug7lz3l/zH1wNnfVcIWeusgY6T9qPMAmH+4893nbuYj0GLsPAQ6qub6k\n7ZYIpD7e4cVSCU68msobFhqaFlDm68DgHE3iI+pkzsm0Bwzo8J/PL6Ow7M6CW6HB\nkJklAPcyq3GqFvlc5ElSSXNR5P5/qzwwuPUMPVPVFTWvfWhdHR8bYiZcQRJ66+c=\n=2KnQ\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 5ed70bc19b86d2c8cc43e528d55359bdde53816c\nauthor bzimmerm567 <35977174+bzimmerm567@users.noreply.github.com> 1517350172 -0500\ncommitter GitHub <noreply@github.com> 1517350172 -0500\n\nInitial commit"
+      }
+    },
+    "url": "https://api.github.com/repos/bzimmerm567/Triangle567/commits/f6831d75a5858e74e6792e81344a1b4be13f2440",
+    "html_url": "https://github.com/bzimmerm567/Triangle567/commit/f6831d75a5858e74e6792e81344a1b4be13f2440",
+    "comments_url": "https://api.github.com/repos/bzimmerm567/Triangle567/commits/f6831d75a5858e74e6792e81344a1b4be13f2440/comments",
+    "author": {
+      "login": "bzimmerm567",
+      "id": 35977174,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35977174?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bzimmerm567",
+      "html_url": "https://github.com/bzimmerm567",
+      "followers_url": "https://api.github.com/users/bzimmerm567/followers",
+      "following_url": "https://api.github.com/users/bzimmerm567/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bzimmerm567/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bzimmerm567/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bzimmerm567/subscriptions",
+      "organizations_url": "https://api.github.com/users/bzimmerm567/orgs",
+      "repos_url": "https://api.github.com/users/bzimmerm567/repos",
+      "events_url": "https://api.github.com/users/bzimmerm567/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bzimmerm567/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+
+    ]
+  }
+]

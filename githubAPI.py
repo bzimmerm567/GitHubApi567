@@ -25,4 +25,4 @@ def get_summary(id):
   return result[:-1]
 
 if __name__ == '__main__':
-    print get_summary("bzimmerm567")
+  print get_summary("bzimmerm567")
